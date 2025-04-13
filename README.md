@@ -4,7 +4,7 @@
 ---
 
 #### ¿Qué se hizo?
-Se ejecutó el siguente código:
+Se ejecutó el siguiente código:
 ```
 if __name__ == "__main__" :
 ####  print("Hola mundo")
@@ -12,7 +12,7 @@ if __name__ == "__main__" :
 ```
 Lo anterior, de tres formas diferentes:
 
-### 1. Block de notas de preferencia y correrlo en el terminal
+### 1. Block de notas de preferencia y correrlo en el terminal.
 Para ejecutar el código, hice lo siguiente:
 1. Escribí el código en la app "block de notas" de windows.
 2. Lo guardé como archivo .py.
@@ -27,7 +27,7 @@ De esa forma se pudo ejecutar el código desde un archivo creado en block de not
 
 ---
 
-### 2. Directamente en el interprete de python
+### 2. Directamente en el interprete de python.
 Para ejecutar el código, hice lo siguiente:
 1. Tecleé WINDOWS+R.
 2. Escribí cmd para abrir el intérprete de windows.
@@ -41,7 +41,7 @@ De esa forma se pudo ejecutar el código desde el intérprete de python.
 
 ---
 
-### 3. En VSCode
+### 3. En VSCode.
 Para ejecutar el código, hice lo siguiente:
 1. Creé un archivo desde la aplicación de VSCode, dando clic en file - new file y lo guardé. (Aunque también se puede utilizar el archivo antes creado, al final pude correr los dos sin problema.)
 2. Cuando se abrió el archivo, escribí el código.
